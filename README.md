@@ -13,8 +13,6 @@ This project involves designing, implementing, and deploying a recommendation sy
 - **Deployment Services:** 
   - AWS EC2 
   - S3 
-  - SSH with Paramiko
-
 ## Dataset
 
 The dataset used in this project can be downloaded from [Kaggle's E-Commerce Dataset](https://www.kaggle.com/datasets). After downloading, place the raw data files in the `data/raw` directory.
